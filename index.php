@@ -42,7 +42,7 @@ if(isset($_POST)){
   </head>
   <body>
     <div style="margin:30px" class="center">
-      <h2>🌟ACC 教会対抗お祈りグランプリ🌟</h2>
+      <h2>🌟キャンパスカップ 教会対抗お祈りカウンター🌟</h2>
       <h4>あなたの教会と性別を選択してください。</h4><br>
       <form action="./index.php" method="post" class="center">
         <script>
